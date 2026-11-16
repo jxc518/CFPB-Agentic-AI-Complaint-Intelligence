@@ -1,6 +1,6 @@
 # CFPB Agentic AI
 
-### Complaint Intelligence · Next Best Action · Voice AI
+## Complaint Intelligence · Next Best Action · Voice AI
 
 **An Independent Proof of Concept for AI-Assisted Consumer Complaint Intelligence**
 
