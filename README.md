@@ -11,6 +11,8 @@ An Agentic AI project exploring how financial institutions can transform unstruc
 
 ## Project Presentation
 
+📄 **[View Full Project Presentation — CFPB Phase 1 & Phase 2](https://github.com/jxc518/CFPB-Agentic-AI-Complaint-Intelligence/blob/main/CFPB_Phase1_Phase2_Voice_Integrated_Process_Discovery_20261115.pdf)**
+
 The accompanying PowerPoint presentation documents:
 
 - Phase 1 and Phase 2 architecture diagrams
@@ -20,8 +22,6 @@ The accompanying PowerPoint presentation documents:
 - Seven-model ML comparison and technical evidence
 
 The presentation includes Teacher–Student Distillation, Multi-Agent NBA architecture, QLoRA training results, real complaint examples, STT quality evaluation, and recovery experiments.
-
-📄 **[View Full Project Presentation — CFPB Phase 1 & Phase 2](https://github.com/jxc518/CFPB-Agentic-AI-Complaint-Intelligence/blob/main/CFPB_Phase1_Phase2_Voice_Integrated_Process_Discovery_20261115.pdf)**
 
 ---
 
