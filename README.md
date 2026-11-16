@@ -8,6 +8,20 @@ An Agentic AI project exploring how financial institutions can transform unstruc
 
 > **Project scope:** Phase 1 covers complaint intelligence and experimental NBA generation. Phase 2 covers STT quality benchmarking and recovery. End-to-end Voice-to-NBA integration is **planned**, not implemented.
 
+
+## Project Presentation
+
+The accompanying PowerPoint presentation documents:
+
+- Phase 1 and Phase 2 architecture diagrams
+- Teacher–Student knowledge distillation and QLoRA training results
+- Real complaint narratives and generated NBA comparisons
+- STT benchmarking and recovery experiments
+- Seven-model ML comparison and technical evidence
+
+📄 **[View Full Project Presentation — CFPB Phase 1 & Phase 2](https://github.com/jxc518/CFPB-Agentic-AI-Complaint-Intelligence/blob/main/CFPB_Phase1_Phase2_Voice_Integrated_Process_Discovery_20261115.pdf)**
+
+The presentation includes Teacher–Student Distillation, Multi-Agent NBA architecture, QLoRA training results, real complaint examples, STT quality evaluation, and recovery experiments.
 ---
 
 ## Project Overview
@@ -90,18 +104,6 @@ An Agentic AI project exploring how financial institutions can transform unstruc
 | Machine Learning | scikit-learn, XGBoost, LightGBM, CatBoost |
 | Evaluation | WER, CER, Precision, Recall, F1, Average Precision |
 | Development | Google Colab, Jupyter Notebook |
-
-## Project Presentation
-
-The accompanying PowerPoint presentation documents:
-
-- Phase 1 and Phase 2 architecture diagrams
-- Teacher–Student knowledge distillation and QLoRA training results
-- Real complaint narratives and generated NBA comparisons
-- STT benchmarking and recovery experiments
-- Seven-model ML comparison and technical evidence
-
-See the PowerPoint file uploaded to this repository.
 
 ## Responsible AI & Governance
 
