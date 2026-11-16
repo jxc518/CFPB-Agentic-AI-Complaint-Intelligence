@@ -19,9 +19,10 @@ The accompanying PowerPoint presentation documents:
 - STT benchmarking and recovery experiments
 - Seven-model ML comparison and technical evidence
 
+The presentation includes Teacher–Student Distillation, Multi-Agent NBA architecture, QLoRA training results, real complaint examples, STT quality evaluation, and recovery experiments.
+
 📄 **[View Full Project Presentation — CFPB Phase 1 & Phase 2](https://github.com/jxc518/CFPB-Agentic-AI-Complaint-Intelligence/blob/main/CFPB_Phase1_Phase2_Voice_Integrated_Process_Discovery_20261115.pdf)**
 
-The presentation includes Teacher–Student Distillation, Multi-Agent NBA architecture, QLoRA training results, real complaint examples, STT quality evaluation, and recovery experiments.
 ---
 
 ## Project Overview
